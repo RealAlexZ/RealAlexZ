@@ -2,9 +2,9 @@
 <h3 align="center">I'm an artist, and I love computer science.</h3>
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/5c/4a/1c/5c4a1cef8a1ebd3584fac99c817b173c.gif">
 
-- 🔭 I am currently working on **a VST3/AU audio analyzer plugin "MultiMeter".**
+- 🔭 I am currently working on [MultiMeter](https://github.com/RealAlexZ/MultiMeter.git)**, an audio analyzer AU/VST3 plugin.**
 
-- 🌱 I am currently learning **Machine Learning for Natural Language Processing, Web Systems, Computer Vision, and Interactive Media.**
+- 🌱 I am currently learning **Machine Learning for Natural Language Processing, Web Systems, Computer Vision, and Interactive Media Design.**
 
 - 👯 I am looking for opportunities in **the intersection of computer music and AI/ML.**
 
