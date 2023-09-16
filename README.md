@@ -4,7 +4,7 @@
 
 - 🔭 I am currently working on [MultiMeter](https://github.com/RealAlexZ/MultiMeter.git)**, an audio analyzer AU/VST3 plugin.**
 
-- 🌱 I am currently learning **Machine Learning for Natural Language Processing, Web Systems, Computer Vision, and Interactive Media Design.**
+- 🌱 I am currently learning **Machine Learning for Natural Language Processing, Web Systems, and Computer Vision.**
 
 - 👯 I am looking for opportunities in **the intersection of computer music and AI/ML.**
 
