@@ -6,13 +6,13 @@
 
 - 🌱 I am currently learning **accessible computing, information retrieval, MaxMSP, digital fabrication for musical instrument design.**
 
-- 📄 I have ample experience in **machine learning, web systems, and computer vision**.
+- 📄 I have had ample experience in **machine learning, web systems, and computer vision**.
 
 - 👯 I am looking for opportunities at **the intersection of audio and AI/ML.**
 
-- 🤝 I am actively seeking **prospective teammates to collaborate on EECS 495: Accessible Computing and EECS 486: Information Retrieval projects.**
+- 🤝 I am actively seeking **prospective teammates to collaborate on projects for EECS 495: Accessible Computing and EECS 486: Information Retrieval.**
 
-- 💬 Ask me **anything about computer music, AI/ML, AU/VST plugin development, and eletronic dance music (EDM) production.**
+- 💬 Ask me **anything about computer music, AI/ML, AU/VST plugin development, and electronic dance music (EDM) production.**
 
 - 💻 Know more about me [**here**](https://realalexz.github.io/).
 
