@@ -2,7 +2,7 @@
 <h3 align="center">I'm an artist who loves computer science.</h3>
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/5c/4a/1c/5c4a1cef8a1ebd3584fac99c817b173c.gif">
 
-- 🔭 I am currently working on [MultiMeter](https://github.com/RealAlexZ/MultiMeter.git), **an audio analyzer AU/VST plugin**, [FaustSynth](https://github.com/RealAlexZ/FaustSynth.git), **an AU/VST synthesizer powered by JUCE7 and Faust**, and a paper on improving music genre classfication with spectrograms.
+- 🔭 I am currently working on [**MultiMeter**](https://github.com/RealAlexZ/MultiMeter.git), **an audio analyzer AU/VST plugin**, [**FaustSynth**](https://github.com/RealAlexZ/FaustSynth.git), **an AU/VST synthesizer powered by JUCE7 and Faust**, and a paper on improving music genre classfication with spectrograms.
 
 - 🌱 I am currently learning **accessible computing, information retrieval, MaxMSP, digital fabrication for musical instrument design.**
 
@@ -14,7 +14,11 @@
 
 - 💬 Ask me **anything about computer music, AI/ML, AU/VST plugin development, and eletronic dance music (EDM) production.**
 
-- 📫 Reach me at: **alexzinquiries@gmail.com**
+- 💻 Know more about me [**here**](https://realalexz.github.io/).
+
+- 🎵 My music portfolio is available [**here**](https://soundcloud.com/yulania).
+
+- 📫 Reach me at **alexzinquiries@gmail.com**.
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
