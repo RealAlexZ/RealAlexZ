@@ -4,7 +4,7 @@
 
 - 🔭 I am currently working on [**MultiMeter**](https://github.com/RealAlexZ/MultiMeter.git), **an audio analyzer AU/VST plugin**, [**FaustSynth**](https://github.com/RealAlexZ/FaustSynth.git), **an AU/VST synthesizer powered by Faust**, and a paper on improving music genre classfication with spectrograms.
 
-- 🌱 I am currently learning **accessible computing, information retrieval, MaxMSP, digital fabrication for musical instrument design.**
+- 🌱 I am currently learning **accessible computing, information retrieval, MaxMSP, and digital fabrication for musical instrument design.**
 
 - 📄 I have had ample experience in **machine learning, web systems, and computer vision**.
 
