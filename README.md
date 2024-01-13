@@ -36,8 +36,8 @@
 
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.png" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.png" alt="numpy" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.juce.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/JUCE_Logo.png" alt="juce" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" alt="flask" width="40" height="40"/> </a>
