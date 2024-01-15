@@ -50,5 +50,6 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://https://www.apple.com/logic-pro/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Logic_Pro_icon.png" alt="logic" width="40" height="40"/> </a>
 <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"> <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" alt="flstudio" width="40" height="40"/> </a>
+<a href="https://openscad.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Openscad.svg/955px-Openscad.svg.png" alt="openscad" width="40" height="40"/> </a>
 <a href="https://www.axure.com/" target="_blank" rel="noreferrer"> <img src="https://www.axure.com/wp-content/uploads/2019/04/axure_icon_125.svg" alt="axurerp" width="40" height="40"/> </a>
 </p>
