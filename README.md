@@ -51,5 +51,7 @@
 <a href="https://https://www.apple.com/logic-pro/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Logic_Pro_icon.png" alt="logic" width="40" height="40"/> </a>
 <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"> <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" alt="flstudio" width="40" height="40"/> </a>
 <a href="https://openscad.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Openscad.svg/955px-Openscad.svg.png" alt="openscad" width="40" height="40"/> </a>
+<a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"> <img src="https://shop.creationengine.com/cdn/shop/files/Rhino8-Icon-1024x1024_1da0bbf1-f140-4fa0-a47e-eb8647aa8c39_grande.png?v=1700155465" alt="rhino" width="40" height="40"/> </a>
+<a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="fusion360" width="40" height="40"/> </a>
 <a href="https://www.axure.com/" target="_blank" rel="noreferrer"> <img src="https://www.axure.com/wp-content/uploads/2019/04/axure_icon_125.svg" alt="axurerp" width="40" height="40"/> </a>
 </p>
