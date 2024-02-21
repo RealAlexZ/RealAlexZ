@@ -2,17 +2,9 @@
 <h3 align="center">I'm an artist who loves computer science.</h3>
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/5c/4a/1c/5c4a1cef8a1ebd3584fac99c817b173c.gif">
 
-- 🔭 I am currently working on [**MultiMeter**](https://github.com/RealAlexZ/MultiMeter.git), **an AU/VST audio analyzer**, [**FaustSynth**](https://github.com/RealAlexZ/FaustSynth.git), **an AU/VST synthesizer powered by Faust**, and a paper on improving music genre classfication with spectrograms.
+- 📖 I am currently learning **accessible computing, information retrieval, creative coding, and digital fabrication for acoustics.**
 
-- 🌱 I am currently learning **accessible computing, information retrieval, MaxMSP, and digital fabrication for acoustics.**
-
-- 📄 I have had ample experience in **machine learning, web systems, and computer vision**.
-
-- 👯 I am looking for opportunities at **the intersection of audio and AI/ML.**
-
-- 🤝 I am actively seeking **prospective teammates to collaborate on projects for EECS 495: Accessible Computing and EECS 486: Information Retrieval.**
-
-- 💬 Ask me **anything about computer music, AI/ML, AU/VST plugin development, and electronic dance music (EDM) production.**
+- 📄 I have had ample experience in **computer music and machine learning**.
 
 - 💻 Know more about me [**here**](https://realalexz.github.io/).
 
@@ -20,7 +12,15 @@
 
 - 📫 Reach me at **alexzinquiries@gmail.com**.
 
-<h3 align="left">Programming Languages:</h3>
+### AU/VST Plugins:
+- [**MultiMeter**](https://github.com/RealAlexZ/MultiMeter.git), a comprehensive set of audio analysis tools in one window.
+- [**FaustSynth**](https://github.com/RealAlexZ/FaustSynth.git), a synthesizer powered by Faust.
+
+### Music Instrument Designs:
+- [**Erhu**](https://github.com/), a replication of an Erhu in the Stearns Collection at the University of Michigan designed with Rhino.
+- [**Saxophone Mouthpiece Kit**](https://github.com/), a set of saxophone mouthpiece and reed designed with OpenSCAD and Rhino.
+
+### Programming Languages:
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
