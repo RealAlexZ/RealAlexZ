@@ -20,8 +20,8 @@
 - [**FaustSynth**](https://github.com/RealAlexZ/FaustSynth.git), a synthesizer powered by Faust.
 
 ### Musical Instrument Designs
-- [**Erhu**](https://github.com/), a replica of [Erhu #2524 from the University of Michigan's Stearns Collection](https://smtd.umich.edu/research-collections/stearns-collection-of-musical-instruments/search-the-stearns-collection/collection-item/?id=2573), designed with Rhinoceros 3D.
-- [**Saxophone Mouthpiece Kit**](https://github.com/), a set of saxophone mouthpiece and reed designed with OpenSCAD and Rhinoceros 3D.
+- [**A replica of Erhu # 2524**](https://github.com/) from [the University of Michigan's Stearns Collection](https://smtd.umich.edu/research-collections/stearns-collection-of-musical-instruments/search-the-stearns-collection/collection-item/?id=2573), designed with Rhinoceros 3D.
+- [**Saxophone Mouthpiece Kit**](https://github.com/), a set of saxophone mouthpiece and reed, designed with OpenSCAD and Rhinoceros 3D.
 
 ## Skills
 
