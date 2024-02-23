@@ -19,7 +19,7 @@
 - [**MultiMeter**](https://github.com/RealAlexZ/MultiMeter.git), a comprehensive set of audio analysis tools in one window.
 - [**FaustSynth**](https://github.com/RealAlexZ/FaustSynth.git), a synthesizer powered by Faust.
 
-### Music Instrument Designs
+### Musical Instrument Designs
 - [**Erhu**](https://github.com/), a replica of [Erhu #2524 from the University of Michigan's Stearns Collection](https://smtd.umich.edu/research-collections/stearns-collection-of-musical-instruments/search-the-stearns-collection/collection-item/?id=2573), designed with Rhinoceros 3D.
 - [**Saxophone Mouthpiece Kit**](https://github.com/), a set of saxophone mouthpiece and reed designed with OpenSCAD and Rhinoceros 3D.
 
@@ -59,7 +59,7 @@
 <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"> <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" alt="flstudio" width="40" height="40"/> </a>
 </p>
 
-### Computer-Aided Design Software
+### Computer-Aided Design (CAD) Software
 <p align="left">
 <a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"> <img src="https://shop.creationengine.com/cdn/shop/files/Rhino8-Icon-1024x1024_1da0bbf1-f140-4fa0-a47e-eb8647aa8c39_grande.png?v=1700155465" alt="rhino" width="40" height="40"/> </a>
 <a href="https://openscad.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Openscad.svg/955px-Openscad.svg.png" alt="openscad" width="40" height="40"/> </a>
