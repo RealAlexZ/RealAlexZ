@@ -19,7 +19,7 @@ Here is my [**personal website**](https://zhiyualexzhang.com) and [**music portf
 ### Musical Instrument Designs
 - [**A replica of Erhu # 2524**](https://github.com/RealAlexZ/rhino-replicate-erhu) from [the University of Michigan's Stearns Collection](https://smtd.umich.edu/research-collections/stearns-collection-of-musical-instruments/search-the-stearns-collection/collection-item/?id=2573), designed with Rhinoceros 3D.
 - [**Saxophone Kit: Mouthpiece and Reed**](https://github.com/RealAlexZ/saxophone-mouthpiece-reed-kit), a set of saxophone mouthpiece and reed, designed with Rhinoceros 3D and OpenSCAD.
-- [**Erhulele**](https://github.com/RealAlexZ/erhulele), a compact, functional, and culturally significant sibling of the traditional Chinese Erhu, designed with Rhinoceros 3D.
+- [**Teenage Erhu**](https://github.com/RealAlexZ/erhulele), a compact, functional, and culturally significant sibling of the traditional Chinese Erhu, designed with Rhinoceros 3D.
 
 ## Skills
 
