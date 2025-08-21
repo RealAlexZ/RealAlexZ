@@ -36,6 +36,7 @@ Here is my [**personal website**](https://realalexz.github.io/) and [**music por
 
 ### Technical Frameworks and Libraries
 <p align="left">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.png" alt="numpy" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
@@ -48,7 +49,7 @@ Here is my [**personal website**](https://realalexz.github.io/) and [**music por
 <p align="left">
 <a href="https://faust.grame.fr/" target="_blank" rel="noreferrer"> <img src="https://faust.grame.fr/community/logos/img/LOGO_FAUST_SIMPLE_BLEU.png" alt="faust" width="40" height="40"/> </a>
 <a href="https://cycling74.com/products/max" target="_blank" rel="noreferrer"> <img src="https://docs.cycling74.com/static/img/max8_logo.svg" alt="max" width="40" height="40"/> </a>
-<a href="https://processing.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/standard10/uploads/processingfoundation1/optimized/2X/2/28e093f6b53b2d49dc566ad7297f34b18c74d09a_2_908x1000.png" alt="processing" width="40" height="40"/> </a>
+<a href="https://processing.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/> </a>
 </p>
 
 ### UX Prototyping Software
