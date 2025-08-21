@@ -1,8 +1,8 @@
-<h1 align="center">Hi! I am Alex.</h1>
+<h1 align="center">Hi! I am Alex. Welcome to My GitHub Profile.</h1>
 
 ## About Me
 
-I  am a PhD student in Information Science at the University of Washington, advised by Professors Katie Davis and Jin Ha Lee.
+I am a PhD student in Information Science at the University of Washington, advised by Professors Katie Davis and Jin Ha Lee.
 
 My research focuses on how computing and STEAM education can enrich one another, ultimately creating accessible, engaging, and culturally relevant learning experiences for students worldwide.
 
@@ -48,7 +48,7 @@ Here is my [**personal website**](https://realalexz.github.io/) and [**music por
 ### Creative Programming Languages
 <p align="left">
 <a href="https://faust.grame.fr/" target="_blank" rel="noreferrer"> <img src="https://faust.grame.fr/community/logos/img/LOGO_FAUST_SIMPLE_BLEU.png" alt="faust" width="40" height="40"/> </a>
-<a href="https://cycling74.com/products/max" target="_blank" rel="noreferrer"> <img src="https://docs.cycling74.com/static/img/max8_logo.svg" alt="max" width="40" height="40"/> </a>
+<a href="https://cycling74.com/products/max" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_Max_8_software.jpg" alt="max" width="40" height="40"/> </a>
 <a href="https://processing.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/> </a>
 </p>
 
