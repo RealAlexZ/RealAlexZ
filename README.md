@@ -13,8 +13,8 @@ Here is my [**personal website**](https://zhiyualexzhang.com) and [**music portf
 ## Open Source Projects
 
 ### AU/VST Plugins
-- [**MultiMeter**](https://github.com/RealAlexZ/MultiMeter.git), a comprehensive set of audio analysis tools in one window.
-- [**FaustSynth**](https://github.com/RealAlexZ/FaustSynth.git), a synthesizer powered by Faust.
+- [**MultiMeter**](https://github.com/RealAlexZ/MultiMeter.git), a comprehensive set of audio analysis tools.
+- [**FaustSynth**](https://github.com/RealAlexZ/FaustSynth.git), an additive synthesizer powered by Faust.
 
 ### Musical Instrument Designs
 - [**A replica of Erhu # 2524**](https://github.com/RealAlexZ/rhino-replicate-erhu) from [the University of Michigan's Stearns Collection](https://smtd.umich.edu/research-collections/stearns-collection-of-musical-instruments/search-the-stearns-collection/collection-item/?id=2573), designed with Rhinoceros 3D.
