@@ -8,7 +8,7 @@ My research focuses on how computing and STEAM education can enrich one another,
 
 I seek to propagate knowledge in these domains—often tacit, nuanced, and rarely accessible outside expert mentorship—to transcend educational barriers through gamified human-AI collaboration.
 
-Here is my [**personal website**](https://realalexz.github.io/) and [**music portfolio**](https://soundcloud.com/yulania). Reach me at **alexzinquiries@gmail.com**.
+Here is my [**personal website**](https://zhiyualexzhang.com) and [**music portfolio**](https://soundcloud.com/yulania). Reach me at **alexzinquiries@gmail.com**.
 
 ## Open Source Projects
 
