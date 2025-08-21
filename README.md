@@ -1,19 +1,16 @@
-<h1 align="center">Welcome to Alex Zhang's GitHub page!</h1>
-<h3 align="center">I'm an artist who loves computer science.</h3>
+<h1 align="center">Hi! I am Alex.</h1>
 
 ## About Me
 
-- 📖 I am currently learning **Digital Sound Synthesis and AI in Education.**
+I  am a PhD student in Information Science at the University of Washington, advised by Professors Katie Davis and Jin Ha Lee.
 
-- 📄 I have had ample experience in **creative coding, web audio, machine learning, and digital fabrication**.
+My research focuses on how computing and STEAM education can enrich one another, ultimately creating accessible, engaging, and culturally relevant learning experiences for students worldwide.
 
-- 💻 Know more about me [**here**](https://realalexz.github.io/).
+I seek to propagate knowledge in these domains—often tacit, nuanced, and rarely accessible outside expert mentorship—to transcend educational barriers through gamified human-AI collaboration.
 
-- 🎵 My music portfolio is available [**here**](https://soundcloud.com/yulania).
+Here is my [**personal website**](https://realalexz.github.io/) and [**music portfolio**](https://soundcloud.com/yulania). Reach me at **alexzinquiries@gmail.com**.
 
-- 📫 Reach me at **alexzinquiries@gmail.com**.
-
-## Projects
+## Open Source Projects
 
 ### AU/VST Plugins
 - [**MultiMeter**](https://github.com/RealAlexZ/MultiMeter.git), a comprehensive set of audio analysis tools in one window.
@@ -54,7 +51,13 @@
 <a href="https://processing.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/standard10/uploads/processingfoundation1/optimized/2X/2/28e093f6b53b2d49dc566ad7297f34b18c74d09a_2_908x1000.png" alt="processing" width="40" height="40"/> </a>
 </p>
 
-### Audio Software
+### UX Prototyping Software
+<p align="left">
+<a href="https://www.axure.com/" target="_blank" rel="noreferrer"> <img src="https://www.axure.com/wp-content/uploads/2019/04/axure_icon_125.svg" alt="axurerp" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a>
+</p>
+
+### Music Production Software
 <p align="left">
 <a href="https://https://www.apple.com/logic-pro/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Logic_Pro_icon.png" alt="logic" width="40" height="40"/> </a>
 <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer"> <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" alt="flstudio" width="40" height="40"/> </a>
@@ -64,9 +67,4 @@
 <p align="left">
 <a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"> <img src="https://shop.creationengine.com/cdn/shop/files/Rhino8-Icon-1024x1024_1da0bbf1-f140-4fa0-a47e-eb8647aa8c39_grande.png?v=1700155465" alt="rhino" width="40" height="40"/> </a>
 <a href="https://openscad.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Openscad.svg/955px-Openscad.svg.png" alt="openscad" width="40" height="40"/> </a>
-</p>
-
-### UX Prototyping Software
-<p align="left">
-<a href="https://www.axure.com/" target="_blank" rel="noreferrer"> <img src="https://www.axure.com/wp-content/uploads/2019/04/axure_icon_125.svg" alt="axurerp" width="40" height="40"/> </a>
 </p>
