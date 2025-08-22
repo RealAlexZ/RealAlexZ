@@ -16,8 +16,8 @@ Here is my [**personal website**](https://zhiyualexzhang.com) and [**music portf
 - [**MultiMeter**](https://github.com/RealAlexZ/MultiMeter.git), a comprehensive set of audio analysis tools.
 - [**FaustSynth**](https://github.com/RealAlexZ/FaustSynth.git), a subtractive synthesizer powered by Faust.
 
-### Musical Instrument Designs
-- Teenage Erhu, a compact, functional, and culturally significant sibling of the traditional Chinese Erhu, designed with Rhinoceros 3D.
+### [**Musical Instrument Designs**](https://github.com/RealAlexZ/3d-modeling-of-musical-instruments)
+- The Teenage Erhu is a lightweight, modular, and culturally resonant reinterpretation of the traditional Chinese Erhu, designed with Rhinoceros 3D.
 - A replica of Erhu # 2524 from [the University of Michigan's Stearns Collection](https://smtd.umich.edu/research-collections/stearns-collection-of-musical-instruments/search-the-stearns-collection/collection-item/?id=2573), designed with Rhinoceros 3D.
 - Saxophone Kit: Mouthpiece and Reed, a set of saxophone mouthpiece and reed, designed with Rhinoceros 3D and OpenSCAD.
 
