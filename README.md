@@ -1,5 +1,3 @@
-<h1 align="center">Hi! I am Alex. Welcome to My GitHub Profile.</h1>
-
 ## About Me
 
 I am a PhD student in Information Science at the University of Washington, advised by Professors Katie Davis and Jin Ha Lee.
